@@ -1,0 +1,28 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "prus",
+  "main": "js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prusyura/calc.git"
+  },
+  "keywords": [
+    "4545"
+  ],
+  "author": "prus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prusyura/calc/issues"
+  },
+  "homepage": "https://github.com/prusyura/calc#readme"
+}
